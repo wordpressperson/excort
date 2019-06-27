@@ -1,0 +1,40 @@
+2019-06-27T15:52:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_day_link(), 1 passed in C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php on line 938 and exactly 3 expected in C:\xampp\htdocs\excort\wp-includes\link-template.php:546
+Stack trace:
+#0 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(938): get_day_link('2016')
+#1 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(427): OceanWP_Breadcrumb_Trail->add_day_archive_items()
+#2 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(205): OceanWP_Breadcrumb_Trail->add_items()
+#3 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(65): OceanWP_Breadcrumb_Trail->__construct(Array)
+#4 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\partials\page-header.php(62): oceanwp_breadcrumb_trail()
+#5 C:\xampp\htdocs\excort\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\excort\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', fa in C:\xampp\htdocs\excort\wp-includes\link-template.php on line 546
+
+2019-06-27T15:53:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_day_link(), 1 passed in C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php on line 938 and exactly 3 expected in C:\xampp\htdocs\excort\wp-includes\link-template.php:546
+Stack trace:
+#0 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(938): get_day_link('2016')
+#1 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(427): OceanWP_Breadcrumb_Trail->add_day_archive_items()
+#2 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(205): OceanWP_Breadcrumb_Trail->add_items()
+#3 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(65): OceanWP_Breadcrumb_Trail->__construct(Array)
+#4 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\partials\page-header.php(62): oceanwp_breadcrumb_trail()
+#5 C:\xampp\htdocs\excort\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\excort\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', fa in C:\xampp\htdocs\excort\wp-includes\link-template.php on line 546
+
+2019-06-27T16:17:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_day_link(), 1 passed in C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php on line 938 and exactly 3 expected in C:\xampp\htdocs\excort\wp-includes\link-template.php:546
+Stack trace:
+#0 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(938): get_day_link('2016')
+#1 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(427): OceanWP_Breadcrumb_Trail->add_day_archive_items()
+#2 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(205): OceanWP_Breadcrumb_Trail->add_items()
+#3 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(65): OceanWP_Breadcrumb_Trail->__construct(Array)
+#4 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\partials\page-header.php(62): oceanwp_breadcrumb_trail()
+#5 C:\xampp\htdocs\excort\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\excort\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', fa in C:\xampp\htdocs\excort\wp-includes\link-template.php on line 546
+
+2019-06-27T16:17:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_day_link(), 1 passed in C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php on line 938 and exactly 3 expected in C:\xampp\htdocs\excort\wp-includes\link-template.php:546
+Stack trace:
+#0 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(938): get_day_link('2016')
+#1 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(427): OceanWP_Breadcrumb_Trail->add_day_archive_items()
+#2 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(205): OceanWP_Breadcrumb_Trail->add_items()
+#3 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\inc\breadcrumbs.php(65): OceanWP_Breadcrumb_Trail->__construct(Array)
+#4 C:\xampp\htdocs\excort\wp-content\themes\oceanwp\partials\page-header.php(62): oceanwp_breadcrumb_trail()
+#5 C:\xampp\htdocs\excort\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\excort\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', fa in C:\xampp\htdocs\excort\wp-includes\link-template.php on line 546
+
